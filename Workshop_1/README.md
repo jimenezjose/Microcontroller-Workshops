@@ -15,4 +15,4 @@
 
 #### Hardware Connections: 
 
-![alt text]( https://github.com/jimenezjose/Xbox360_RC_Car/blob/master/images/Schematic.jpg "Schematic Overview")
+![alt text]( https://github.com/jimenezjose/Microcontroller-Workshops/blob/master/Workshop_1/Images/Blinky_IMG.png "Schematic Overview")
