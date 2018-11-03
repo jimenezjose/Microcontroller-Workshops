@@ -1,2 +1,2 @@
 # Microcontroller-Workshops
-Arduino Workshops with Computer Science fundamentals
+Arduino Workshops with computer science fundamentals in C/C++
