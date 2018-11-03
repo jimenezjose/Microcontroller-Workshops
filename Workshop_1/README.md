@@ -15,3 +15,4 @@
 
 #### Hardware Connections: 
 
+![alt text]( https://github.com/jimenezjose/Xbox360_RC_Car/blob/master/images/Schematic.jpg "Schematic Overview")
