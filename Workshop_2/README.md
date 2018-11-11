@@ -41,4 +41,8 @@ https://github.com/jimenezjose/Microcontroller-Workshops/blob/master/Workshop_2/
 ![alt text]( 
 https://github.com/jimenezjose/Microcontroller-Workshops/blob/master/Workshop_2/Images/HelloWorld.c.png "Directions")
 
+### Compile then Execute 
+
+![alt text]( 
+https://github.com/jimenezjose/Microcontroller-Workshops/blob/master/Workshop_2/Images/Execution.png "Directions")
 
