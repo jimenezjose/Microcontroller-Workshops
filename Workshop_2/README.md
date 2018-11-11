@@ -35,7 +35,7 @@ https://github.com/jimenezjose/Microcontroller-Workshops/blob/master/Workshop_2/
 ![alt text]( 
 https://github.com/jimenezjose/Microcontroller-Workshops/blob/master/Workshop_2/Images/InsertVim.png "Directions")
 
-### SAVE AND QUIT: Enter "<esc>:wq"
+### SAVE AND QUIT: Enter "\<esc\>:wq"
 
 
 ![alt text]( 
