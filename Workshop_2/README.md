@@ -46,3 +46,10 @@ https://github.com/jimenezjose/Microcontroller-Workshops/blob/master/Workshop_2/
 ![alt text]( 
 https://github.com/jimenezjose/Microcontroller-Workshops/blob/master/Workshop_2/Images/Execution.png "Directions")
 
+#### gcc HelloWorld.c
+        "gcc" Using the GCC compiler, compile the C source file named HelloWorld.c in the current directory.
+        
+#### ./a.out
+        After HelloWord.c is comiled using GCC, a binary file named "a.out" is created. To execute the program
+        you compiled, enter "./a.out". 
+
