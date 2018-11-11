@@ -5,7 +5,7 @@
 ## HelloWorld.c
 
 ![alt text]( 
-https://github.com/jimenezjose/Microcontroller-Workshops/blob/master/Workshop_2/Images/Navigation.png "Directions")
+https://github.com/jimenezjose/Microcontroller-Workshops/blob/master/Workshop_2/Images/navigation.png "Directions")
 
 #### mkdir CircuitTeam2018-19
     "make directory: CircuitTeam2018". This command creates a directory (folder) in your current 
