@@ -30,3 +30,15 @@ https://github.com/jimenezjose/Microcontroller-Workshops/blob/master/Workshop_2/
 ![alt text]( 
 https://github.com/jimenezjose/Microcontroller-Workshops/blob/master/Workshop_2/Images/OpenVim.png "Directions")
 
+### INSERT MODE: Enter "i"
+
+![alt text]( 
+https://github.com/jimenezjose/Microcontroller-Workshops/blob/master/Workshop_2/Images/OpenVim.png "Directions")
+
+### SAVE AND QUIT: Enter "<esc>:wq"
+
+
+![alt text]( 
+https://github.com/jimenezjose/Microcontroller-Workshops/blob/master/Workshop_2/Images/OpenVim.png "Directions")
+
+
