@@ -27,3 +27,6 @@ https://github.com/jimenezjose/Microcontroller-Workshops/blob/master/Workshop_2/
     text editor.
 
 
+![alt text]( 
+https://github.com/jimenezjose/Microcontroller-Workshops/blob/master/Workshop_2/Images/navigation.png "Directions")
+
