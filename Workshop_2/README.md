@@ -28,5 +28,5 @@ https://github.com/jimenezjose/Microcontroller-Workshops/blob/master/Workshop_2/
 
 
 ![alt text]( 
-https://github.com/jimenezjose/Microcontroller-Workshops/blob/master/Workshop_2/Images/navigation.png "Directions")
+https://github.com/jimenezjose/Microcontroller-Workshops/blob/master/Workshop_2/Images/OpenVim.png "Directions")
 
