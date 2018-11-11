@@ -5,7 +5,7 @@
 ## HelloWorld.c
 
 ![alt text]( 
-https://github.com/jimenezjose/Microcontroller-Workshops/blob/master/Workshop_2/Images/Navigation.png "Directions")
+https://github.com/jimenezjose/Microcontroller-Workshops/blob/master/Workshop_2/Images/navigation.png "Directions")
 
 #### mkdir CircuitTeam2018-19
     "make directory: CircuitTeam2018". This command creates a directory (folder) in your current 
@@ -26,4 +26,30 @@ https://github.com/jimenezjose/Microcontroller-Workshops/blob/master/Workshop_2/
     "vim". This command opens and creates the new C file named "HeloWorld.c" using the Vim 
     text editor.
 
+
+![alt text]( 
+https://github.com/jimenezjose/Microcontroller-Workshops/blob/master/Workshop_2/Images/OpenVim.png "Directions")
+
+### INSERT MODE: Enter "i"
+
+![alt text]( 
+https://github.com/jimenezjose/Microcontroller-Workshops/blob/master/Workshop_2/Images/InsertVim.png "Directions")
+
+### SAVE AND QUIT: Enter "\<esc\>:wq"
+
+
+![alt text]( 
+https://github.com/jimenezjose/Microcontroller-Workshops/blob/master/Workshop_2/Images/HelloWorld.c.png "Directions")
+
+### Compile then Execute 
+
+![alt text]( 
+https://github.com/jimenezjose/Microcontroller-Workshops/blob/master/Workshop_2/Images/Execution.png "Directions")
+
+#### gcc HelloWorld.c
+        "gcc" Using the GCC compiler, compile the C source file named HelloWorld.c in the current directory.
+        
+#### ./a.out
+        After HelloWord.c is comiled using GCC, a binary file named "a.out" is created. To execute the 
+        program you compiled, enter "./a.out". 
 
