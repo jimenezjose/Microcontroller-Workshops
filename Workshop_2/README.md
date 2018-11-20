@@ -7,24 +7,24 @@
 ![alt text]( 
 https://github.com/jimenezjose/Microcontroller-Workshops/blob/master/Workshop_2/Images/navigation.png "Directions")
 
-#### mkdir CircuitTeam2018-19
-    "make directory: CircuitTeam2018". This command creates a directory (folder) in your current 
-    directory (folder) and names it "CircuitTeam2018"
+#### "mkdir CircuitTeam2018-19"
+    "mkdir CircuitTeam2018-19". This command creates a directory (folder) and names it 
+    "CircuitTeam2018"
     
-#### ls
-    "list". This command lists the content of the current directory (folder). Here you will be 
+#### "ls"
+    "ls". This command lists the content of the current directory (folder). Here you will be 
     able to see the new folder you created called "CircuitTeam2018"
     
-#### cd CircuitTeam2018-19
-    "change directory: to CircuitTeam2018-19". This commands changes your current directory to 
-    CircuitTeam2018-19. In other words, you just "clicked into" CircuitTeam2018-19.
+#### "cd CircuitTeam2018-19"
+    "cd CircuitTeam2018-19". This commands changes your current directory to CircuitTeam2018-19. 
+    In other words, you just "clicked into" the CircuitTeam2018-19 folder.
 
-#### ls
-    "list". List the content of CircuitTeam2018-19. This should be empty.
+#### "ls"
+    "ls". List the content of CircuitTeam2018-19. This should be empty.
     
-#### vim HelloWorld.c
-    "vim". This command opens and creates the new C file named "HeloWorld.c" using the Vim 
-    text editor.
+#### "vim HelloWorld.c"
+    "vim HelloWorld.c". This command opens and creates the new C file named "HeloWorld.c" 
+    using the Vim text editor.
 
 
 ![alt text]( 
